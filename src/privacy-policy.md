@@ -1,3 +1,6 @@
+### Privacy Policy
+
+```html
 # Privacy Policy
 
 ## 1. Introduction
