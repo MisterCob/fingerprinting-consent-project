@@ -1,4 +1,4 @@
-# Device Fingerprinting with Consent: A Privacy-Conscious Approach
+# Device Fingerprinting: A Privacy-Conscious Approach
 
 ## Overview
 This project demonstrates how to implement **device fingerprinting** on your website or forum with a focus on **user consent** and **privacy protection**. By following these steps, you will learn how to set up **FingerprintJS** for device fingerprinting and integrate it with a **cookie consent banner** to ensure that users are fully informed and in control of their data.
