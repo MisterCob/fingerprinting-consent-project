@@ -1,5 +1,3 @@
-### Privacy Policy
-
 ```html
 # Privacy Policy
 
