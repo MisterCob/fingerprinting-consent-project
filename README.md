@@ -49,6 +49,7 @@ A **cookie consent banner** is necessary to inform users and obtain their consen
 </script>
 ```
 
+---
 ## 3. Integrating FingerprintJS
 
 Next, integrate FingerprintJS to collect device fingerprints only if consent is granted.
@@ -64,7 +65,7 @@ Next, integrate FingerprintJS to collect device fingerprints only if consent is 
     }
 </script>
 ```
-
+---
 ### 4. Revoking Consent
 
 Users should have the ability to revoke consent at any time. You can provide them with a way to contact you to remove their data.
@@ -73,7 +74,7 @@ Users should have the ability to revoke consent at any time. You can provide the
 ```
 <p>If you have consented to fingerprinting but later wish to revoke your consent, please contact us, and we will remove all data associated with your device.</p>
 ```
-
+---
 ### 5. Link to Privacy Policy
 
 Link to your Privacy Policy in the consent banner to ensure full transparency about data usage.
@@ -81,6 +82,7 @@ Link to your Privacy Policy in the consent banner to ensure full transparency ab
 <a href="/privacy-policy" style="color: #ffcc00;">Privacy Policy</a>
 ```
 
+---
 ### 6. Best Practices
 
 When implementing fingerprinting, ensure that you follow these best practices:
@@ -90,5 +92,6 @@ When implementing fingerprinting, ensure that you follow these best practices:
 * Ethical Use: Only use fingerprinting for legitimate purposes such as improving security.
 * Compliance: Make sure you're compliant with privacy regulations such as GDPR, if applicable.
 
+---
 ### 7. Final Thoughts
 This project demonstrates a privacy-conscious approach to fingerprinting. By following these steps, you can implement device fingerprinting responsibly and respect user preferences regarding data collection.
